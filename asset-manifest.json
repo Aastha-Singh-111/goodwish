@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/goodwish/static/css/main.0140b39c.css",
+    "main.js": "/goodwish/static/js/main.a363cee1.js",
+    "static/js/787.dc91374b.chunk.js": "/goodwish/static/js/787.dc91374b.chunk.js",
+    "static/media/logo.svg": "/goodwish/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/goodwish/index.html",
+    "main.0140b39c.css.map": "/goodwish/static/css/main.0140b39c.css.map",
+    "main.a363cee1.js.map": "/goodwish/static/js/main.a363cee1.js.map",
+    "787.dc91374b.chunk.js.map": "/goodwish/static/js/787.dc91374b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0140b39c.css",
+    "static/js/main.a363cee1.js"
+  ]
+}
